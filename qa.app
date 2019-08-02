@@ -1,6 +1,7 @@
 application qa
 
-  imports elib/lib
+  imports elib/elib-bootstrap/lib
+  imports elib/elib-utils/lib
   imports template
   imports authentication
   imports ac

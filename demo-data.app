@@ -46,7 +46,7 @@ module demo-data
         Answer {
           user := u2
           content := "500.floatValue()"
-        }
+        }
       }
       voters := {u1,u2,u3}
     };

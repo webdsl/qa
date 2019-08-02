@@ -1,3 +1,6 @@
-[submodule "elib"]
-	path = elib-legacy
-	url = git://github.com/webdsl/elib.git
+[submodule "elib/elib-bootstrap"]
+	path = elib/elib-bootstrap
+	url = git://github.com/webdsl/elib-bootstrap
+[submodule "elib/elib-utils"]
+	path = elib/elib-utils
+	url = git://github.com/webdsl/elib-utils
